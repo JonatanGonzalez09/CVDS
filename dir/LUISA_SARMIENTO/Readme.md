@@ -53,5 +53,5 @@ print("Hola Mundo");
 
 Learn Git Branching
 -------------------
-![](Main.jpeg)
-![](Remote.jpeg)
+![](Main.PNG)
+![](Remote.PNG)
