@@ -1,0 +1,14 @@
+***ANDRES ORLANDO SOTELO FAJARDO***
+
+![](https://cdn.pixabay.com/photo/2018/03/03/03/11/tree-3194803__340.jpg)
+
+ACERCA DE MI:
+
+- _SEXO_: MASCULINO
+- _EDAD_: 21 
+- _ESPECIFICACIONES CORPORALES_:
+   1. _ESTATURA_: 1.75 **M**
+   2. _MASA_: 64 **KG**
+
+> ACTUALMENTE CURSANDO EL PROGRAMA _INGENIERÍA DE SISTEMAS_ EN LA [ESCUELA COLOMBIANA DE INGENIERÍA JULIO GARAVITO](http://www.escuelaing.edu.co/es/comunidad/estudiantes) ``PLAN 14``.
+
